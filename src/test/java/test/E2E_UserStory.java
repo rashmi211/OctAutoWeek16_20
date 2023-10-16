@@ -10,7 +10,7 @@ import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
-public class E2E_UsetStory {
+public class E2E_UserStory {
 	public static String cookie="";
 	public static String storyid="";
 	
