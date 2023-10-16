@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-16T20:04:32 IST" name="Default suite" finished-at="2023-10-16T20:04:35 IST" duration-ms="2229">
+    <groups>
+    </groups>
+    <test started-at="2023-10-16T20:04:32 IST" name="Default test" finished-at="2023-10-16T20:04:35 IST" duration-ms="2229">
+      <class name="test.E2E_AddAttachment">
+        <test-method signature="loginToJira()[pri:1, instance:test.E2E_AddAttachment@1d9b7cce]" started-at="2023-10-16T20:04:33 IST" name="loginToJira" finished-at="2023-10-16T20:04:34 IST" duration-ms="1620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToJira -->
+        <test-method signature="createStory()[pri:2, instance:test.E2E_AddAttachment@1d9b7cce]" started-at="2023-10-16T20:04:34 IST" name="createStory" finished-at="2023-10-16T20:04:34 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createStory -->
+        <test-method signature="getstory()[pri:3, instance:test.E2E_AddAttachment@1d9b7cce]" started-at="2023-10-16T20:04:34 IST" name="getstory" finished-at="2023-10-16T20:04:34 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getstory -->
+        <test-method signature="addattachment()[pri:4, instance:test.E2E_AddAttachment@1d9b7cce]" started-at="2023-10-16T20:04:34 IST" name="addattachment" finished-at="2023-10-16T20:04:35 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addattachment -->
+      </class> <!-- test.E2E_AddAttachment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
